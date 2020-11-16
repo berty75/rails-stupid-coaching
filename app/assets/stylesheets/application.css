@@ -13,3 +13,25 @@
  *= require_tree .
  *= require_self
  */
+.container {
+  display: flex;
+  justify-content:center;
+  height: 70vh;
+  padding-top: 0;
+
+}
+
+.police{
+  text-align:center;
+  font-size: Poppins;
+  padding: 80px;
+}
+
+.forma {
+  height: 30vh;
+  width: 200px;
+}
+
+body{
+  background: pink;
+}
